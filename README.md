@@ -2,7 +2,7 @@
 
 ## Overview 
 
-  The purpose of this project was to analyze user data for NY Cit Bikes. Using Tableau to create data visuals that tell a story and insights that can be used to better target primary users and recongize trends. Helping end users who may not be familair with data to easily understand key business metrics. 
+  The purpose of this project was to analyze user data for NY Citi Bikes. Using Tableau to create data visuals that tell a story and insights that can be used to better target primary users and recongize trends. Helping end users who may not be familair with data to easily understand key business metrics. 
   
   ## Analysis
   
